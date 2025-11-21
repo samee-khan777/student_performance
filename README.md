@@ -9,8 +9,8 @@ The goal of this project is to provide a clear understanding of student learning
 
 ## 🖼️ Dashboard Preview
 
-![Dashboard Preview](./students-dashboard.png)
-![Dashboard Preview 2](./student-dashboard.png)
+![Dashboard Preview](./students%20dashboard.png)
+![Dashboard Preview 2](./student%20dashboard.png)
 
 ---
 
